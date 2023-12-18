@@ -81,8 +81,7 @@ ergasia::hello()
 ergasia::thankyou()
 
 libUtil <- ergasia::getNewOhdsiLibUtil()
-
-
+libUtil$test()
 
 
 
